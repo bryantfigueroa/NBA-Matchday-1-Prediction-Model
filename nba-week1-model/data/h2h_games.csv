@@ -1,0 +1,13 @@
+date,home,away,home_pts,away_pts,type,neutral,note
+2025-12-13,OKC,SAS,109,111,regular,0,source lists OKC; may have been the NBA Cup semifinal (Las Vegas) - set neutral=1 if so
+2025-12-23,SAS,OKC,130,110,regular,0,
+2025-12-25,OKC,SAS,102,117,regular,0,
+2026-01-13,OKC,SAS,119,98,regular,0,
+2026-02-04,SAS,OKC,116,106,regular,0,
+2026-05-18,OKC,SAS,115,122,playoff,0,WCF G1 (2OT)
+2026-05-20,OKC,SAS,122,113,playoff,0,WCF G2
+2026-05-22,SAS,OKC,108,123,playoff,0,WCF G3
+2026-05-24,SAS,OKC,103,82,playoff,0,WCF G4
+2026-05-26,OKC,SAS,127,114,playoff,0,WCF G5
+2026-05-28,SAS,OKC,118,91,playoff,0,WCF G6
+2026-05-30,OKC,SAS,103,111,playoff,0,WCF G7
